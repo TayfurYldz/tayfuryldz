@@ -2,13 +2,23 @@
 
 # Tayfur Yildiz
 
-### Breaking assumptions. Proving impact.
+### Frontend roots. Security curiosity.
 
-Web / API / access control / bug bounty
+Building for the web, then looking a little closer at how it breaks.
+
+<sub>Frontend development · Web / API security · Access control · Bug bounty</sub>
+
+<br><br>
 
 [Website](https://www.ariacreative.net.tr) · [Email](mailto:yildiztayfur668@gmail.com)
 
 </div>
+
+<br>
+
+### About
+
+I come from a frontend-oriented development background and I’m gradually going deeper into security research. I’m especially interested in web and API behavior, access control, and practical bug bounty work. I care more about clear reproduction, evidence, and understanding the system than sounding advanced — and I’m still learning with every project and report.
 
 <br>
 
