@@ -1,22 +1,24 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/intro-light.svg">
-  <img src="./assets/intro-dark.svg" alt="Tayfur Yildiz — Build. Test. Understand." width="100%">
-</picture>
-
 <div align="center">
-  <a href="https://www.ariacreative.net.tr"><strong>Website</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:yildiztayfur668@gmail.com"><strong>Email</strong></a>
+
+# Tayfur Yildiz
+
+### Frontend developer exploring web security.
+
+Building interfaces, testing assumptions, and learning how systems fail.
+
+`Frontend` · `Web / API` · `Access Control` · `Bug Bounty`
+
+[**Website**](https://www.ariacreative.net.tr) · [**Email**](mailto:yildiztayfur668@gmail.com)
+
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
-  <img src="./assets/about-dark.svg" alt="About Tayfur Yildiz" width="100%">
-</picture>
+## About me
+
+I started on the frontend side of the web, and that naturally pulled me toward security. These days I split my time between building interfaces, studying web and API behavior, and practicing bug bounty research.
+
+I’m still sharpening the research side, so I care more about **careful reproduction, clear evidence, and understanding why something breaks** than making big claims.
 
 <br>
 
