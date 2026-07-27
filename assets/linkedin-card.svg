@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img" aria-labelledby="t d">
+  <title id="t">LinkedIn profile card</title>
+  <desc id="d">Animated clickable card for LinkedIn profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="360" height="180" rx="20" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="18" y="18" width="324" height="144" rx="14" fill="#0b1220" stroke="#1f2937"/>
+  <text x="28" y="50" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">LinkedIn</text>
+  <rect x="238" y="30" width="82" height="34" rx="9" fill="#0a66c2"/>
+  <text x="279" y="52" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">PROFILE</text>
+  <text x="28" y="88" fill="#7d8590" font-family="Arial, Helvetica, sans-serif" font-size="14">professional identity</text>
+  <text x="28" y="110" fill="#7d8590" font-family="Arial, Helvetica, sans-serif" font-size="14">experience · network · updates</text>
+  <text x="28" y="136" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif" font-size="13">click to open</text>
+  <circle cx="318" cy="136" r="5" fill="#0a66c2"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <rect x="28" y="148" width="236" height="2" fill="#0a66c2" opacity="0.25"/>
+  <rect x="28" y="148" width="56" height="2" fill="#58a6ff" filter="url(#glow)"><animate attributeName="x" values="28;208;28" dur="2.8s" repeatCount="indefinite"/></rect>
+</svg>
