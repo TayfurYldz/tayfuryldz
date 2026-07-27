@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d">
+<title id="t">TAYFUR YILDIZ</title>
+<desc id="d">Minimal glassmorphism hero.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f7f9fd"/>
+    <stop offset="1" stop-color="#eef4fb"/>
+  </linearGradient>
+  <radialGradient id="g1" cx="0.12" cy="0.12" r="0.75">
+    <stop offset="0" stop-color="#4f8cff" stop-opacity="0.12"/>
+    <stop offset="1" stop-color="#4f8cff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="250" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="250" rx="28" fill="url(#g1)"/>
+<rect x="18" y="18" width="1164" height="214" rx="24" fill="#ffffff" fill-opacity="0.45" stroke="#93a4be" stroke-opacity="0.20"/>
+<text x="600" y="74" text-anchor="middle" fill="#758297" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="4">FRONTEND · WEB SECURITY · BUG BOUNTY</text>
+<text x="600" y="145" text-anchor="middle" fill="#121826" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-2">TAYFUR YILDIZ</text>
+<text x="600" y="184" text-anchor="middle" fill="#59677b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">Building for the web · learning how it breaks</text>
+<rect x="500" y="203" width="200" height="2" rx="1" fill="#4f8cff" opacity="0.55"/>
+</svg>
