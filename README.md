@@ -8,49 +8,31 @@
 
 <br>
 
-<div align="center">
-  <strong>Security Research · Bug Bounty · Web & API Security · Offensive Tooling</strong>
-  <br><br>
-  <code>signal &gt; noise</code> · <code>proof &gt; guess</code> · <code>impact &gt; hype</code>
-</div>
-
-<br>
-
-<table>
+<table width="100%">
 <tr>
-<td width="27%" align="center" valign="middle">
+<td width="33%" align="center" valign="middle">
   <a href="https://www.linkedin.com/in/tayfur-yıldız-3b7820391">
-    <img src="./assets/linkedin-card.svg" alt="LinkedIn profile card" width="220">
-  </a>
-  <br><br>
-  <a href="https://github.com/TayfurYldz">
-    <img src="https://img.shields.io/badge/GitHub-TayfurYldz-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="./assets/linkedin-card.svg" alt="LinkedIn — Tayfur Yildiz" width="238">
   </a>
 </td>
-<td width="46%" align="center" valign="middle">
-  <img src="./assets/ascii-loop.gif" alt="Animated ASCII security research visual" width="420">
-  <br><br>
-  <sub>evidence-first research · clean reproduction · measurable impact · low-noise validation</sub>
+<td width="34%" align="center" valign="middle">
+  <img src="./assets/ascii-loop.gif" alt="Animated ASCII research visual" width="238">
 </td>
-<td width="27%" align="center" valign="middle">
+<td width="33%" align="center" valign="middle">
   <a href="https://bugcrowd.com/h/tayfuryldz">
-    <img src="./assets/bugcrowd-card.svg" alt="Bugcrowd profile card" width="220">
-  </a>
-  <br><br>
-  <a href="https://www.ariacreative.net.tr">
-    <img src="https://img.shields.io/badge/Website-ariacreative.net.tr-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="./assets/bugcrowd-card.svg" alt="Bugcrowd — tayfuryldz" width="238">
   </a>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <a href="mailto:yildiztayfur668@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yildiztayfur668%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://github.com/TayfurYldz"><img src="https://img.shields.io/badge/GitHub-TayfurYldz-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.ariacreative.net.tr"><img src="https://img.shields.io/badge/Website-ariacreative.net.tr-161b22?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:yildiztayfur668@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
+<br>
 
 ### About
 
@@ -86,9 +68,9 @@ I focus on practical security research: reproducing, minimizing, and validating 
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/HTTP-111827?style=flat-square&logo=cloudflare&logoColor=white" alt="HTTP">
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/HTTP-161b22?style=flat-square&logo=cloudflare&logoColor=white" alt="HTTP">
 </p>
