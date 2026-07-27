@@ -1,67 +1,74 @@
 <div align="center">
-
-# Tayfur Yildiz
-
-**Security Research · Bug Bounty · Web & API Security · Offensive Tooling**
-
-`signal > noise` · `proof > guess` · `impact > hype`
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+    <img alt="Tayfur Yildiz — Security Researcher" src="./assets/dark.svg" width="100%">
+  </picture>
 </div>
 
-<table>
-<tr>
-<td width="24%" valign="middle">
-<pre><code>┌─ TARGETS ─────┐
-│ WEB / API     │
-│ AUTH / ACCESS │
-│ HTTP EDGE     │
-│ LOGIC FLAWS   │
-└───────────────┘
-
-mode   authorized
-signal high
-noise  low</code></pre>
-</td>
-<td width="52%" align="center" valign="middle">
-<img src="./assets/ascii-loop.gif" alt="Animated ASCII security research visual" width="420">
-</td>
-<td width="24%" valign="middle">
-<pre><code>┌─ STATUS ──────┐
-│ RESEARCHING   │
-│ BUILDING      │
-│ VALIDATING    │
-│ REPORTING     │
-└───────────────┘
-
-proof  > guess
-impact > hype</code></pre>
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
-  <sub>evidence-first security research // clean reproduction // measurable impact</sub>
+  <strong>Security Research · Bug Bounty · Web & API Security · Offensive Tooling</strong>
+  <br><br>
+  <code>signal &gt; noise</code> · <code>proof &gt; guess</code> · <code>impact &gt; hype</code>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="./assets/ascii-loop.gif" alt="ASCII research loop" width="420">
+</div>
+
+<div align="center">
+  <sub>evidence-first research · clean reproduction · measurable impact · low-noise validation</sub>
+</div>
+
+<br>
+
+```text
+$ profiles
+github    -> https://github.com/TayfurYldz
+linkedin  -> https://www.linkedin.com/in/tayfur-yıldız-3b7820391
+bugcrowd  -> https://bugcrowd.com/h/tayfuryldz
+website   -> https://www.ariacreative.net.tr
+email     -> yildiztayfur668@gmail.com
+
+$ focus
+web/api · authn/authz · access control · business logic · low-noise tooling
+```
+
+### Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-TayfurYldz-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/TayfurYldz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayfur%20Y%C4%B1ld%C4%B1z-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfur-yıldız-3b7820391)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-tayfuryldz-111827?style=flat-square)](https://bugcrowd.com/h/tayfuryldz)
+[![Website](https://img.shields.io/badge/Website-ariacreative.net.tr-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ariacreative.net.tr)
+[![Email](https://img.shields.io/badge/Email-yildiztayfur668%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:yildiztayfur668@gmail.com)
 
 ### About
 
-I focus on practical security research: reproducing, minimizing, and validating security issues with clear evidence. My main interests are web/API behavior, authentication and authorization logic, HTTP edge cases, and low-noise tooling for authorized research.
+I focus on practical security research: reproducing, minimizing, and validating security issues with clear evidence. My work centers on web and API behavior, authentication and authorization logic, access control, HTTP edge cases, and building low-noise tooling for authorized research.
 
 ### Current work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/TayfurYldz/marrow"><code>marrow</code></a></h4>
-<p>Fail-closed, evidence-based HTTP request minimizer for authorized security research.</p>
-<p><code>Python</code> · <code>HTTP</code> · <code>Security Research</code></p>
+
+#### [`marrow`](https://github.com/TayfurYldz/marrow)
+Fail-closed, evidence-based HTTP request minimizer for authorized security research.
+
+`Python` · `HTTP` · `Security Research`
+
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/TayfurYldz/headerproof"><code>headerproof</code></a></h4>
-<p>Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.</p>
-<p><code>Python</code> · <code>Web Security</code> · <code>Automation</code></p>
+
+#### [`headerproof`](https://github.com/TayfurYldz/headerproof)
+Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.
+
+`Python` · `Web Security` · `Automation`
+
 </td>
 </tr>
 </table>
@@ -70,7 +77,7 @@ I focus on practical security research: reproducing, minimizing, and validating 
 
 ```text
 01 // reproduce
-02 // minimize
+02 // minimise
 03 // validate
 04 // measure impact
 05 // report cleanly
@@ -85,7 +92,3 @@ I focus on practical security research: reproducing, minimizing, and validating 
   <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/HTTP-111827?style=flat-square&logo=cloudflare&logoColor=white" alt="HTTP">
 </p>
-
-### Find me
-
-[Website](https://www.ariacreative.net.tr) · [GitHub](https://github.com/TayfurYldz)
