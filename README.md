@@ -1,15 +1,13 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/intro-light.svg">
+  <img src="./assets/intro-dark.svg" alt="TAYFUR YILDIZ" width="100%">
+</picture>
+
 <div align="center">
-
-# Tayfur Yildiz
-
-### Frontend developer exploring web security.
-
-Building interfaces, testing assumptions, and learning how systems fail.
-
-`Frontend` · `Web / API` · `Access Control` · `Bug Bounty`
-
-[**Website**](https://www.ariacreative.net.tr) · [**Email**](mailto:yildiztayfur668@gmail.com)
-
+  <a href="https://www.ariacreative.net.tr"><strong>Website</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:yildiztayfur668@gmail.com"><strong>Email</strong></a>
 </div>
 
 <br>
