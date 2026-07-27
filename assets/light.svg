@@ -1,21 +1,64 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
   <title id="title">Tayfur Yildiz — Security Researcher</title>
   <desc id="desc">Animated terminal-style profile banner for GitHub light mode.</desc>
+
   <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d0d7de" stroke-width="1" opacity="0.7"/></pattern>
-    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.55" stop-color="#ffffff" stop-opacity="0.94"/><stop offset="1" stop-color="#f6f8fa" stop-opacity="0.9"/></linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <clipPath id="type1"><rect x="75" y="117" width="0" height="24"><animate attributeName="width" values="0;740;740" keyTimes="0;0.4;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="type2"><rect x="75" y="154" width="0" height="24"><animate attributeName="width" values="0;0;800;800" keyTimes="0;0.25;0.65;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="type3"><rect x="75" y="191" width="0" height="24"><animate attributeName="width" values="0;0;0;800" keyTimes="0;0.45;0.62;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#d0d7de" stroke-width="1" opacity="0.7"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="type1"><rect x="75" y="112" width="0" height="24"><animate attributeName="width" values="0;760;760" keyTimes="0;0.34;1" dur="6.4s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type2"><rect x="75" y="148" width="0" height="24"><animate attributeName="width" values="0;0;790;790" keyTimes="0;0.22;0.6;1" dur="6.4s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type3"><rect x="75" y="184" width="0" height="24"><animate attributeName="width" values="0;0;0;790" keyTimes="0;0.42;0.6;1" dur="6.4s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
-  <rect width="1200" height="440" rx="26" fill="#f6f8fa"/><rect width="1200" height="440" rx="26" fill="url(#grid)" opacity="0.8"/><rect x="28" y="28" width="1144" height="384" rx="20" fill="url(#fade)" stroke="#d0d7de"/>
-  <circle cx="58" cy="58" r="6" fill="#cf222e"/><circle cx="79" cy="58" r="6" fill="#9a6700"/><circle cx="100" cy="58" r="6" fill="#1a7f37"/><text x="132" y="64" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">tayfur@github: ~/profile</text>
-  <text x="75" y="133" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" clip-path="url(#type1)">&gt; whoami</text>
-  <text x="75" y="170" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" clip-path="url(#type2)">Tayfur Yildiz // Security Researcher</text>
-  <text x="75" y="207" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" clip-path="url(#type3)">bug bounty · web · api · auth · access control · tooling</text>
-  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.68;1" dur="6s" repeatCount="indefinite"/><text x="75" y="270" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">signal &gt; noise</text><text x="232" y="270" fill="#d0d7de" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">//</text><text x="266" y="270" fill="#8250df" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">proof &gt; guess</text><text x="421" y="270" fill="#d0d7de" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">//</text><text x="455" y="270" fill="#bc4c00" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">impact &gt; hype</text></g>
-  <g transform="translate(820 92)"><rect x="0" y="0" width="270" height="230" rx="18" fill="#ffffff" stroke="#d8dee4"/><text x="28" y="47" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">[ ACTIVE RESEARCH ]</text><text x="28" y="87" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">HTTP       ███████░░</text><text x="28" y="117" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">AUTH       ████████░</text><text x="28" y="147" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">API        ███████░░</text><text x="28" y="177" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">AUTOMATION ████████░</text><rect x="26" y="198" width="214" height="2" fill="#2da44e" opacity="0.25"/><rect x="26" y="198" width="60" height="2" fill="#1a7f37" filter="url(#glow)"><animate attributeName="x" values="26;180;26" dur="2.8s" repeatCount="indefinite"/></rect></g>
-  <g opacity="0.9"><text x="75" y="350" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">research mode:</text><text x="194" y="350" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">evidence-first</text><rect x="316" y="336" width="10" height="18" fill="#1a7f37"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1s" repeatCount="indefinite"/></rect></g>
-  <rect x="28" y="28" width="1144" height="3" rx="2" fill="#1a7f37" opacity="0.55"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.2s" repeatCount="indefinite"/></rect><rect x="42" y="82" width="1115" height="2" fill="#1a7f37" opacity="0.06"><animate attributeName="y" values="82;390;82" dur="5.5s" repeatCount="indefinite"/></rect>
+
+  <rect width="1200" height="440" rx="26" fill="#f6f8fa"/>
+  <rect width="1200" height="440" rx="26" fill="url(#grid)" opacity="0.85"/>
+  <rect x="28" y="28" width="1144" height="384" rx="20" fill="url(#fade)" stroke="#d0d7de"/>
+
+  <circle cx="58" cy="58" r="6" fill="#cf222e"/>
+  <circle cx="79" cy="58" r="6" fill="#9a6700"/>
+  <circle cx="100" cy="58" r="6" fill="#1a7f37"/>
+  <text x="132" y="64" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">tayfur@github: ~/profile</text>
+
+  <text x="75" y="128" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" clip-path="url(#type1)">&gt; init researcher --mode evidence-first --surface web/api</text>
+  <text x="75" y="164" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" clip-path="url(#type2)">Tayfur Yildiz // Security Researcher // Bug Bounty</text>
+  <text x="75" y="200" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" clip-path="url(#type3)">web/api · authn/authz · access control · business logic · low-noise tooling</text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.54;0.67;1" dur="6.4s" repeatCount="indefinite"/>
+    <text x="75" y="246" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ github    = github.com/TayfurYldz</text>
+    <text x="75" y="270" fill="#8250df" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ linkedin  = linkedin.com/in/tayfur-yıldız-3b7820391</text>
+    <text x="75" y="294" fill="#bc4c00" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ bugcrowd  = bugcrowd.com/h/tayfuryldz</text>
+    <text x="75" y="318" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ website   = ariacreative.net.tr</text>
+    <text x="75" y="342" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">$ motto     = signal &gt; noise // proof &gt; guess // impact &gt; hype</text>
+  </g>
+
+  <g transform="translate(892 92)">
+    <rect x="0" y="0" width="188" height="214" rx="16" fill="#ffffff" stroke="#d8dee4"/>
+    <text x="20" y="38" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">[ live focus ]</text>
+    <text x="20" y="72" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">HTTP        ████████░</text>
+    <text x="20" y="98" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">AUTH        █████████</text>
+    <text x="20" y="124" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">API         ████████░</text>
+    <text x="20" y="150" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">TOOLING     ████████░</text>
+    <text x="20" y="183" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">researching / building / validating</text>
+    <rect x="18" y="196" width="144" height="2" fill="#2da44e" opacity="0.28"/>
+    <rect x="18" y="196" width="48" height="2" fill="#1a7f37" filter="url(#glow)">
+      <animate attributeName="x" values="18;118;18" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="28" y="28" width="1144" height="3" rx="2" fill="#1a7f37" opacity="0.55">
+    <animate attributeName="opacity" values="0.18;0.72;0.18" dur="3.1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="42" y="84" width="1115" height="2" fill="#1a7f37" opacity="0.06">
+    <animate attributeName="y" values="84;390;84" dur="5.3s" repeatCount="indefinite"/>
+  </rect>
 </svg>
