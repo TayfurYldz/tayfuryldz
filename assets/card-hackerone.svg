@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="200" viewBox="0 0 620 200" role="img" aria-labelledby="t d">
+<title id="t">HackerOne</title><desc id="d">reports · impact · signal</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d121b"/>
+    <stop offset="1" stop-color="#151d29"/>
+  </linearGradient>
+  <radialGradient id="wash" cx="0.85" cy="0.25" r="0.85">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+    <stop offset="0.48" stop-color="#9ca8bb" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#9ca8bb" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="620" height="200" rx="28" fill="url(#bg)"/>
+<circle cx="500" cy="42" r="118" fill="url(#wash)"/>
+<rect x="16" y="16" width="588" height="168" rx="24" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="34" y="78" fill="#f7f9fc" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-1">HackerOne</text>
+<text x="34" y="108" fill="#b7c0cd" font-family="Inter, Arial, sans-serif" font-size="15">reports · impact · signal</text>
+<text x="34" y="156" fill="#eef3f8" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OPEN →</text>
+<g transform="translate(450 53)"><circle cx="72" cy="52" r="68" fill="#ffffff" fill-opacity="0.06"/><rect x="4" y="0" width="22" height="104" rx="11" fill="#ffffff"/><path d="M46 26c0-16 12-26 27-26 20 0 34 13 34 34v36c0 24-16 40-38 40-7 0-14-2-20-6V26Zm31 12c-8 0-14 6-14 14v27c3 2 7 3 11 3 10 0 17-7 17-17V52c0-8-6-14-14-14Z" fill="#ffffff"/></g>
+</svg>
