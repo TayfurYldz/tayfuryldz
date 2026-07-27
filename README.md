@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Tayfur Yildiz — Security Researcher" src="./assets/dark.svg" width="100%">
+    <img alt="Tayfur Yildiz — Security Research Dashboard" src="./assets/dark.svg" width="100%">
   </picture>
 </div>
 
@@ -10,17 +10,19 @@
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
   <a href="https://www.linkedin.com/in/tayfur-yıldız-3b7820391">
-    <img src="./assets/linkedin-card.svg" alt="LinkedIn — Tayfur Yildiz" width="238">
+    <img src="./assets/linkedin-card.svg" alt="LinkedIn — Tayfur Yildiz" width="232">
   </a>
 </td>
-<td width="34%" align="center" valign="middle">
-  <img src="./assets/ascii-loop.gif" alt="Animated ASCII research visual" width="238">
+<td width="40%" align="center" valign="middle">
+  <img src="./assets/ascii-loop.gif" alt="Animated ASCII research visual" width="248">
+  <br><br>
+  <sub>evidence-first research · clean reproduction · measurable impact</sub>
 </td>
-<td width="33%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
   <a href="https://bugcrowd.com/h/tayfuryldz">
-    <img src="./assets/bugcrowd-card.svg" alt="Bugcrowd — tayfuryldz" width="238">
+    <img src="./assets/bugcrowd-card.svg" alt="Bugcrowd — tayfuryldz" width="232">
   </a>
 </td>
 </tr>
@@ -68,9 +70,9 @@ I focus on practical security research: reproducing, minimizing, and validating 
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/HTTP-161b22?style=flat-square&logo=cloudflare&logoColor=white" alt="HTTP">
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/HTTP-111827?style=flat-square&logo=cloudflare&logoColor=white" alt="HTTP">
 </p>
