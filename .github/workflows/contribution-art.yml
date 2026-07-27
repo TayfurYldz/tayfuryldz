@@ -1,0 +1,70 @@
+name: Paint contribution art
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  paint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Draw TY on the contribution graph
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ -f .profile-art/applied ]; then
+            echo "Contribution art already applied; nothing to do."
+            exit 0
+          fi
+
+          git config user.name "TayfurYldz"
+          git config user.email "238304586+TayfurYldz@users.noreply.github.com"
+
+          mkdir -p .profile-art
+
+          python3 <<'PY'
+          from datetime import date, timedelta
+
+          pixels = [
+              "11111010001",
+              "00100010001",
+              "00100001010",
+              "00100000100",
+              "00100000100",
+              "00100000100",
+              "00100000100",
+          ]
+
+          start = date(2026, 4, 26)
+          with open('.profile-art/dates.txt', 'w', encoding='utf-8') as f:
+              for row, line in enumerate(pixels):
+                  for col, pixel in enumerate(line):
+                      if pixel == '1':
+                          f.write((start + timedelta(days=col * 7 + row)).isoformat() + '\n')
+          PY
+
+          : > .profile-art/pixels.log
+          pixel=0
+          while IFS= read -r day; do
+            pixel=$((pixel + 1))
+            for shade in 1 2 3; do
+              printf '%s pixel=%02d shade=%d\n' "$day" "$pixel" "$shade" >> .profile-art/pixels.log
+              git add .profile-art/pixels.log
+              GIT_AUTHOR_DATE="${day}T12:00:00+03:00" \
+              GIT_COMMITTER_DATE="${day}T12:00:00+03:00" \
+              git commit -m "profile art: pixel ${pixel}.${shade} [skip ci]"
+            done
+          done < .profile-art/dates.txt
+
+          printf 'TY contribution art applied.\n' > .profile-art/applied
+          git add .profile-art/applied .profile-art/dates.txt
+          git commit -m "chore: mark profile art applied [skip ci]"
+          git push origin HEAD
