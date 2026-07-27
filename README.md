@@ -1,24 +1,22 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/intro-light.svg">
+  <img src="./assets/intro-dark.svg" alt="Tayfur Yildiz — Build. Test. Understand." width="100%">
+</picture>
+
 <div align="center">
-
-# Tayfur Yildiz
-
-### Frontend roots. Security curiosity.
-
-Building for the web, then looking a little closer at how it breaks.
-
-<sub>Frontend development · Web / API security · Access control · Bug bounty</sub>
-
-<br><br>
-
-[Website](https://www.ariacreative.net.tr) · [Email](mailto:yildiztayfur668@gmail.com)
-
+  <a href="https://www.ariacreative.net.tr"><strong>Website</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:yildiztayfur668@gmail.com"><strong>Email</strong></a>
 </div>
 
 <br>
 
-### About
-
-I come from a frontend-oriented development background and I’m gradually going deeper into security research. I’m especially interested in web and API behavior, access control, and practical bug bounty work. I care more about clear reproduction, evidence, and understanding the system than sounding advanced — and I’m still learning with every project and report.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
+  <img src="./assets/about-dark.svg" alt="About Tayfur Yildiz" width="100%">
+</picture>
 
 <br>
 
