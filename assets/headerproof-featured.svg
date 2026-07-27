@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="300" viewBox="0 0 620 300" role="img" aria-labelledby="t d">
+  <title id="t">HeaderProof — Featured project</title>
+  <desc id="d">Low-noise active scanner for header-driven web security leads.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E13"/>
+      <stop offset="1" stop-color="#17130F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.18" r="0.72">
+      <stop offset="0" stop-color="#FF9A4D" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FF9A4D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="298" rx="28" fill="url(#bg)" stroke="#2A313C"/>
+  <rect x="1" y="1" width="618" height="298" rx="28" fill="url(#glow)"/>
+
+  <text x="34" y="45" fill="#7E8794" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.3">FEATURED PROJECT</text>
+  <text x="34" y="98" fill="#F3F5F7" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="42" font-weight="900" letter-spacing="-1.8">HeaderProof</text>
+  <text x="34" y="132" fill="#B5BEC9" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Low-noise web security scanner.</text>
+  <text x="34" y="162" fill="#88929F" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="14">CORS · CSRF · CRLF · cache · content signals</text>
+
+  <rect x="34" y="196" width="76" height="30" rx="15" fill="#171A20" stroke="#343039"/>
+  <text x="72" y="216" text-anchor="middle" fill="#D8DEE6" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">Python</text>
+  <rect x="120" y="196" width="62" height="30" rx="15" fill="#171A20" stroke="#343039"/>
+  <text x="151" y="216" text-anchor="middle" fill="#D8DEE6" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">CI</text>
+  <rect x="192" y="196" width="128" height="30" rx="15" fill="#171A20" stroke="#343039"/>
+  <text x="256" y="216" text-anchor="middle" fill="#D8DEE6" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800">v1.3.1 · alpha</text>
+
+  <text x="34" y="265" fill="#F0F3F6" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="13" font-weight="900" letter-spacing="1.1">VIEW PROJECT  →</text>
+  <text x="586" y="264" text-anchor="end" fill="#687383" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">one-line installer</text>
+</svg>
