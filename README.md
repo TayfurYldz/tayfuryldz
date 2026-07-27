@@ -16,35 +16,41 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/ascii-loop.gif" alt="ASCII research loop" width="420">
-</div>
-
-<div align="center">
+<table>
+<tr>
+<td width="27%" align="center" valign="middle">
+  <a href="https://www.linkedin.com/in/tayfur-yıldız-3b7820391">
+    <img src="./assets/linkedin-card.svg" alt="LinkedIn profile card" width="220">
+  </a>
+  <br><br>
+  <a href="https://github.com/TayfurYldz">
+    <img src="https://img.shields.io/badge/GitHub-TayfurYldz-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</td>
+<td width="46%" align="center" valign="middle">
+  <img src="./assets/ascii-loop.gif" alt="Animated ASCII security research visual" width="420">
+  <br><br>
   <sub>evidence-first research · clean reproduction · measurable impact · low-noise validation</sub>
+</td>
+<td width="27%" align="center" valign="middle">
+  <a href="https://bugcrowd.com/h/tayfuryldz">
+    <img src="./assets/bugcrowd-card.svg" alt="Bugcrowd profile card" width="220">
+  </a>
+  <br><br>
+  <a href="https://www.ariacreative.net.tr">
+    <img src="https://img.shields.io/badge/Website-ariacreative.net.tr-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="mailto:yildiztayfur668@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yildiztayfur668%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
-<br>
-
-```text
-$ profiles
-github    -> https://github.com/TayfurYldz
-linkedin  -> https://www.linkedin.com/in/tayfur-yıldız-3b7820391
-bugcrowd  -> https://bugcrowd.com/h/tayfuryldz
-website   -> https://www.ariacreative.net.tr
-email     -> yildiztayfur668@gmail.com
-
-$ focus
-web/api · authn/authz · access control · business logic · low-noise tooling
-```
-
-### Profiles
-
-[![GitHub](https://img.shields.io/badge/GitHub-TayfurYldz-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/TayfurYldz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayfur%20Y%C4%B1ld%C4%B1z-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfur-yıldız-3b7820391)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-tayfuryldz-111827?style=flat-square)](https://bugcrowd.com/h/tayfuryldz)
-[![Website](https://img.shields.io/badge/Website-ariacreative.net.tr-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ariacreative.net.tr)
-[![Email](https://img.shields.io/badge/Email-yildiztayfur668%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:yildiztayfur668@gmail.com)
+---
 
 ### About
 
@@ -55,20 +61,14 @@ I focus on practical security research: reproducing, minimizing, and validating 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### [`marrow`](https://github.com/TayfurYldz/marrow)
-Fail-closed, evidence-based HTTP request minimizer for authorized security research.
-
-`Python` · `HTTP` · `Security Research`
-
+<h4><a href="https://github.com/TayfurYldz/marrow"><code>marrow</code></a></h4>
+<p>Fail-closed, evidence-based HTTP request minimizer for authorized security research.</p>
+<p><code>Python</code> · <code>HTTP</code> · <code>Security Research</code></p>
 </td>
 <td width="50%" valign="top">
-
-#### [`headerproof`](https://github.com/TayfurYldz/headerproof)
-Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.
-
-`Python` · `Web Security` · `Automation`
-
+<h4><a href="https://github.com/TayfurYldz/headerproof"><code>headerproof</code></a></h4>
+<p>Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.</p>
+<p><code>Python</code> · <code>Web Security</code> · <code>Automation</code></p>
 </td>
 </tr>
 </table>
@@ -77,7 +77,7 @@ Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning
 
 ```text
 01 // reproduce
-02 // minimise
+02 // minimize
 03 // validate
 04 // measure impact
 05 // report cleanly
