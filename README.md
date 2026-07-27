@@ -11,9 +11,7 @@
 <table>
 <tr>
 <td width="24%" valign="middle">
-
-```text
-┌─ TARGETS ─────┐
+<pre><code>┌─ TARGETS ─────┐
 │ WEB / API     │
 │ AUTH / ACCESS │
 │ HTTP EDGE     │
@@ -22,19 +20,13 @@
 
 mode   authorized
 signal high
-noise  low
-```
-
+noise  low</code></pre>
 </td>
 <td width="52%" align="center" valign="middle">
-
 <img src="./assets/ascii-loop.gif" alt="Animated ASCII security research visual" width="420">
-
 </td>
 <td width="24%" valign="middle">
-
-```text
-┌─ STATUS ──────┐
+<pre><code>┌─ STATUS ──────┐
 │ RESEARCHING   │
 │ BUILDING      │
 │ VALIDATING    │
@@ -42,9 +34,7 @@ noise  low
 └───────────────┘
 
 proof  > guess
-impact > hype
-```
-
+impact > hype</code></pre>
 </td>
 </tr>
 </table>
@@ -64,20 +54,14 @@ I focus on practical security research: reproducing, minimizing, and validating 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### [`marrow`](https://github.com/TayfurYldz/marrow)
-Fail-closed, evidence-based HTTP request minimizer for authorized security research.
-
-`Python` · `HTTP` · `Security Research`
-
+<h4><a href="https://github.com/TayfurYldz/marrow"><code>marrow</code></a></h4>
+<p>Fail-closed, evidence-based HTTP request minimizer for authorized security research.</p>
+<p><code>Python</code> · <code>HTTP</code> · <code>Security Research</code></p>
 </td>
 <td width="50%" valign="top">
-
-#### [`headerproof`](https://github.com/TayfurYldz/headerproof)
-Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.
-
-`Python` · `Web Security` · `Automation`
-
+<h4><a href="https://github.com/TayfurYldz/headerproof"><code>headerproof</code></a></h4>
+<p>Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.</p>
+<p><code>Python</code> · <code>Web Security</code> · <code>Automation</code></p>
 </td>
 </tr>
 </table>
