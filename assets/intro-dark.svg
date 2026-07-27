@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Tayfur Yildiz</title>
+  <desc id="d">Modern typographic introduction.</desc>
+  <text x="36" y="46" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="3.2">TAYFUR YILDIZ</text>
+  <text x="34" y="128" fill="#F0F3F6" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="-3.2">BUILD. TEST.</text>
+  <text x="34" y="202" fill="#F0F3F6" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="-3.2">UNDERSTAND.</text>
+  <text x="38" y="248" fill="#A9B1BA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Frontend engineering meets hands-on web security.</text>
+  <text x="38" y="280" fill="#6E7781" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1.7">WEB INTERFACES / APIs / ACCESS CONTROL / BUG BOUNTY</text>
+</svg>
