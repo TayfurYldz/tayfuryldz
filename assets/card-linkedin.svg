@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="200" viewBox="0 0 620 200" role="img" aria-labelledby="t d">
+<title id="t">LinkedIn</title><desc id="d">experience · network · profile</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d121b"/>
+    <stop offset="1" stop-color="#151d29"/>
+  </linearGradient>
+  <radialGradient id="wash" cx="0.85" cy="0.25" r="0.85">
+    <stop offset="0" stop-color="#0A66C2" stop-opacity="0.28"/>
+    <stop offset="0.48" stop-color="#67b9ff" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#67b9ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="620" height="200" rx="28" fill="url(#bg)"/>
+<circle cx="500" cy="42" r="118" fill="url(#wash)"/>
+<rect x="16" y="16" width="588" height="168" rx="24" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="34" y="78" fill="#f7f9fc" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-1">LinkedIn</text>
+<text x="34" y="108" fill="#b7c0cd" font-family="Inter, Arial, sans-serif" font-size="15">experience · network · profile</text>
+<text x="34" y="156" fill="#eef3f8" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OPEN →</text>
+<g transform="translate(448 40)"><rect x="0" y="0" width="118" height="118" rx="22" fill="#0A66C2"/><circle cx="28" cy="32" r="10" fill="#ffffff"/><rect x="20" y="48" width="16" height="46" fill="#ffffff"/><path d="M52 48h18v7c6-7 14-9 22-9 19 0 30 12 30 31v41H100V81c0-9-4-14-13-14-8 0-13 6-13 14v37H52V48Z" fill="#ffffff"/></g>
+</svg>
