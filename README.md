@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="./assets/hero-banner-portfolio.svg" alt="Tayfur Yildiz banner" width="100%">
+
+# Tayfur Yildiz
+
+### Breaking assumptions. Proving impact.
+
+Web / API / access control / bug bounty
+
+[Website](https://www.ariacreative.net.tr) · [Email](mailto:yildiztayfur668@gmail.com)
+
 </div>
 
 <br>
