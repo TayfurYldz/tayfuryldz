@@ -1,24 +1,63 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Tayfur Yildiz — Security Researcher" src="./assets/dark.svg" width="100%">
-  </picture>
+
+# Tayfur Yildiz
+
+**Security Research · Bug Bounty · Web & API Security · Offensive Tooling**
+
+`signal > noise` · `proof > guess` · `impact > hype`
+
 </div>
 
-<br>
+<table>
+<tr>
+<td width="24%" valign="middle">
+
+```text
+┌─ TARGETS ─────┐
+│ WEB / API     │
+│ AUTH / ACCESS │
+│ HTTP EDGE     │
+│ LOGIC FLAWS   │
+└───────────────┘
+
+mode   authorized
+signal high
+noise  low
+```
+
+</td>
+<td width="52%" align="center" valign="middle">
+
+<img src="./assets/ascii-loop.gif" alt="Animated ASCII security research visual" width="420">
+
+</td>
+<td width="24%" valign="middle">
+
+```text
+┌─ STATUS ──────┐
+│ RESEARCHING   │
+│ BUILDING      │
+│ VALIDATING    │
+│ REPORTING     │
+└───────────────┘
+
+proof  > guess
+impact > hype
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <strong>Security Research · Bug Bounty · Web & API Security · Offensive Tooling</strong>
-  <br><br>
-  <code>signal &gt; noise</code> · <code>proof &gt; guess</code> · <code>impact &gt; hype</code>
+  <sub>evidence-first security research // clean reproduction // measurable impact</sub>
 </div>
 
 ---
 
 ### About
 
-I focus on practical security research: finding issues that can be reproduced, minimized, and explained with clear evidence. My work leans toward web/API behavior, authentication and authorization logic, HTTP edge cases, and tooling that removes noise from the validation process.
+I focus on practical security research: reproducing, minimizing, and validating security issues with clear evidence. My main interests are web/API behavior, authentication and authorization logic, HTTP edge cases, and low-noise tooling for authorized research.
 
 ### Current work
 
@@ -43,14 +82,14 @@ Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning
 </tr>
 </table>
 
-### Research principles
+### Research protocol
 
 ```text
-01. Reproduce before escalating.
-02. Minimize before reporting.
-03. Separate signal from scanner noise.
-04. Measure impact, not buzzwords.
-05. Keep the proof cleaner than the exploit story.
+01 // reproduce
+02 // minimize
+03 // validate
+04 // measure impact
+05 // report cleanly
 ```
 
 ### Stack
@@ -66,8 +105,3 @@ Fast, low-noise active scanner for CORS, CSRF, header injection, cache poisoning
 ### Find me
 
 [Website](https://www.ariacreative.net.tr) · [GitHub](https://github.com/TayfurYldz)
-
-<!--
-Profile design intentionally keeps external dependencies minimal.
-The hero animation is pure SVG + SMIL and has separate light/dark versions.
--->
