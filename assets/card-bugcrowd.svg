@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="200" viewBox="0 0 620 200" role="img" aria-labelledby="t d">
+<title id="t">Bugcrowd</title><desc id="d">bug bounty · research · reputation</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d121b"/>
+    <stop offset="1" stop-color="#151d29"/>
+  </linearGradient>
+  <radialGradient id="wash" cx="0.85" cy="0.25" r="0.85">
+    <stop offset="0" stop-color="#f97316" stop-opacity="0.28"/>
+    <stop offset="0.48" stop-color="#ffb36a" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#ffb36a" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="620" height="200" rx="28" fill="url(#bg)"/>
+<circle cx="500" cy="42" r="118" fill="url(#wash)"/>
+<rect x="16" y="16" width="588" height="168" rx="24" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="34" y="78" fill="#f7f9fc" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-1">Bugcrowd</text>
+<text x="34" y="108" fill="#b7c0cd" font-family="Inter, Arial, sans-serif" font-size="15">bug bounty · research · reputation</text>
+<text x="34" y="156" fill="#eef3f8" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OPEN →</text>
+<g transform="translate(446 44)"><polygon points="30,0 92,0 124,54 92,108 30,108 -2,54" fill="#f97316"/><text x="60" y="74" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">b</text></g>
+</svg>
