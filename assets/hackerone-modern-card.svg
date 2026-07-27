@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="230" viewBox="0 0 620 230" role="img"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0e13"/><stop offset="1" stop-color="#101216"/></linearGradient><radialGradient id="w"><stop offset="0" stop-color="#16181c" stop-opacity=".15"/><stop offset="1" stop-color="#16181c" stop-opacity="0"/></radialGradient></defs><rect x="1" y="1" width="618" height="228" rx="28" fill="url(#g)" stroke="#262d37"/><circle cx="500" cy="115" r="150" fill="url(#w)"/><text x="32" y="58" fill="#f5f7fa" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="800" letter-spacing="-1.5">HackerOne</text><text x="32" y="93" fill="#a0a8b3" font-family="Inter,Arial,sans-serif" font-size="17">reports · impact · signal</text><rect x="32" y="145" width="160" height="40" rx="20" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".10"/><text x="112" y="171" text-anchor="middle" fill="#f5f7fa" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">OPEN PROFILE →</text><rect x="32" y="204" width="88" height="3" rx="1.5" fill="#d7dde5"/><image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAABUCAYAAAAWN76TAAADHElEQVR42u2bOYgUURCGvz6WCQxEF1QUI7PVRFdNDDwCUTYzEFcTRUHBxEQwM9FAEIxMDFzMxEQREUEETQzMBFEG1wuVlRFcr2Rnp3sMuop5OzhHz3T39EI9mGD6/LpeVb3Xf732aLX9wDFgEhgHFoGvwDPgFvAG8IAmJWgV4IbAdPr9Ac7L8X4ZoK8IWAQ0gNj56TaFPyznBKOGfidgURdL12X/vTJA+wIViL92O84HxsrgGmn9s7kcoTFogzZogzZogzZogzZogzZogzZogzboIVtYMh6PlhDUdLZBS0wqFXRAS4brekxYEhdVLXENMEWi3K6W7TXgBfAImFeXnpWdMZ21PBUhHzhPnIUruEY7C8x1YfgCnBile7iuMAlcBfbIvkaHB9wA3ByFpd1AWwFcBhace/RiiIHXYcGZSiXlg2LdCSczBH34vgdU/IICzRfg9dLFDwVYezBNz8V5WlpdQX30JHAJWCfdPGhMeWEBgbZZXOGAE2jhsH6WtXV9Aa6QFJcuSNBFsi/MIjiyBNZBYp9Yd2uKQCt8wqTA48B14IkADxJohVhaJzQrgafAliEDrRBLB2LNKQGuO2mu9PPpjWLh3HN/ljeoMViJLx4FtN70uZPW+qk3Rk6KbIwCOgCqwJ0+IGLnnB8yUj52HqQw92iK1c4BH0nK0Yv/sXjDCdLbwHaZi0Sj8OlYoGsyXM8KuNf2ChUCb4FDwDTwgd51+VwDUTNHFdhFsoZkXqBCgb8G7ADuyvaxtFbOI/kreA04DVwEtgGrgFfAy7YJVWkkhNjJCt9k7uwORPEwwHm+IzbbUpqXBWxRYk0zK9BlL4sZtEEbtEEbtEEbtEEbtEEbtEEbtEEbtEH3CZ3mg5u8Ps5JxZCmoJN5aW1A4/k+STWqV+1Ddbmf8t/LCFav85eW3tep6bKKBYDjLF1TEbH00z5V9OvATlqiYhZNe253Dwb388JpPfkM8JvOC0SqJKXjPIJXr3cE+N6FYQ44qt2jAvcEcIpkWc5asfB74D4wA/ySG8Q5+XQMbCIR4/eSrA2JgE8khaQZ4DMQ/APBcwMQaQ2dSwAAAABJRU5ErkJggg==" x="506" y="40" width="80" height="149" preserveAspectRatio="xMidYMid meet"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="230" viewBox="0 0 620 230" role="img" aria-labelledby="t d">
+  <title id="t">HackerOne — tayfuryldzz</title>
+  <desc id="d">HackerOne profile card with an inline vector mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E13"/>
+      <stop offset="1" stop-color="#15171C"/>
+    </linearGradient>
+    <radialGradient id="wash" cx="0.80" cy="0.48" r="0.66">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="228" rx="28" fill="url(#bg)" stroke="#262D37"/>
+  <rect x="1" y="1" width="618" height="228" rx="28" fill="url(#wash)"/>
+
+  <text x="32" y="58" fill="#F5F7FA" font-family="Inter,Arial,sans-serif" font-size="44" font-weight="800" letter-spacing="-1.5">HackerOne</text>
+  <text x="32" y="93" fill="#A0A8B3" font-family="Inter,Arial,sans-serif" font-size="17">reports · impact · signal</text>
+  <rect x="32" y="145" width="160" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="112" y="171" text-anchor="middle" fill="#F5F7FA" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">OPEN PROFILE →</text>
+  <rect x="32" y="204" width="88" height="3" rx="1.5" fill="#D7DDE5"/>
+
+  <circle cx="505" cy="115" r="74" fill="#0A0B0E" stroke="#31343B"/>
+  <g transform="translate(465 41) scale(.42)" fill="#FFFFFF">
+    <rect x="0" y="0" width="50" height="364" rx="22"/>
+    <rect x="145" y="130" width="50" height="234" rx="22"/>
+    <path d="M88 176 L148 136 Q166 124 182 132 Q195 140 195 158 L195 193 L126 215 Q108 221 95 209 L84 198 Q72 186 88 176Z"/>
+  </g>
+</svg>
