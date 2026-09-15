@@ -7,6 +7,10 @@ Security researcher and developer focused on web application security, bug bount
 - [**Marrow**](https://github.com/TayfurYldz/marrow) — Fail-closed, evidence-based HTTP request minimizer for authorized security research.
 - [**HeaderProof**](https://github.com/TayfurYldz/headerproof) — Low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content spoofing leads.
 
+## Open source
+
+Recent merged contributions include fixes and tests in [Basekick Arc](https://github.com/Basekick-Labs/arc/pull/831), [Sotto](https://github.com/getsotto/sotto/pull/272), and [Apache Asyncband](https://github.com/apache/asyncband/pull/313).
+
 ## Focus
 
 `Web Security` · `Bug Bounty` · `Security Automation` · `Python`
