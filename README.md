@@ -1,44 +1,72 @@
+<div align="center">
+
 # Tayfur Yıldız
 
-**Security researcher · Open-source contributor · Developer**
+### Security Research · Bug Bounty · Security Automation
 
-I work on web application security, authorized security research, and practical security tooling. I also contribute focused fixes to open-source projects, with an emphasis on correctness, regressions, runtime behavior, and tests.
+I build practical tooling for authorized security research and spend most of my time around web application security, reconnaissance, validation, and low-noise automation.
 
-My approach is simple: **reproduce the problem, understand the root cause, make the smallest complete fix, and verify it.**
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/tayfuryldzz)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/tayfuryldz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfur-y%C4%B1ld%C4%B1z-3b7820391)
+[![Website](https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ariacreative.net.tr)
 
-## Selected work
+</div>
+
+---
+
+## About
+
+My focus is practical application security: understanding attack surfaces, validating behavior, reducing false positives, and turning repetitive research work into reliable tooling.
+
+I prefer evidence over assumptions. Whether I am investigating a security lead or working on software, I try to reproduce the behavior first, understand why it happens, and verify the result before treating it as solved.
+
+## What I work on
+
+- **Web application security** — attack-surface analysis, request/response behavior, validation, and bug bounty research.
+- **Security automation** — small tools and workflows that make reconnaissance and verification more repeatable.
+- **Open source** — focused bug fixes, regression tests, and correctness work in active projects.
+- **Research tooling** — reducing noise and keeping evidence attached to security findings.
+
+## Tools & technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker&theme=dark" alt="Python, Bash, Linux, Git, GitHub and Docker" />
+</p>
+
+**Daily environment:** Kali Linux / WSL · Burp Suite · Nuclei · Nmap · ProjectDiscovery tooling · Git / GitHub
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Marrow](https://github.com/TayfurYldz/marrow)
-Fail-closed, evidence-based HTTP request minimization for authorized security research. Built to reduce noisy requests while preserving the behavior that matters to a finding.
+
+Fail-closed, evidence-based HTTP request minimization for authorized security research. Designed to reduce request noise without losing the behavior relevant to a finding.
+
+</td>
+<td width="50%" valign="top">
 
 ### [HeaderProof](https://github.com/TayfurYldz/headerproof)
-Low-noise active security scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.
 
-## Open-source contributions
+Low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.
 
-I contribute across projects rather than optimizing for contribution count. Recent merged work includes:
+</td>
+</tr>
+</table>
 
-- [Basekick Arc #831](https://github.com/Basekick-Labs/arc/pull/831) — kept `DECIMAL` values numeric during JSON query serialization.
-- [Apache Asyncband #313](https://github.com/apache/asyncband/pull/313) — enabled watch channels to carry non-`Clone` values.
-- [sktime #11141](https://github.com/sktime/sktime/pull/11141) — restored `SubLOF` compatibility with pandas 3.
-- [Sotto #291](https://github.com/getsotto/sotto/pull/291) — preserved invalid fuzz-seed evidence in CI artifacts.
-- [CUBRID SQLAlchemy #379](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/379) — corrected live `IS DISTINCT FROM` emulation.
-- [Noctivago #51](https://github.com/Venari-Hunt/Noctivago/pull/51) — fixed YouTube search pagination behavior.
+## How I work
 
-Additional merged contributions span CI reliability, runtime correctness, compatibility, developer tooling, and regression coverage.
+```text
+Map the surface → Form a hypothesis → Reproduce → Validate → Keep the evidence
+```
 
-## Engineering focus
+I care more about a result being reproducible and defensible than producing a large number of findings or changes.
 
-`Web Application Security` · `Bug Bounty` · `Security Automation` · `Correctness` · `Regression Testing` · `Python`
+---
 
-## Working principles
-
-- Evidence before conclusions.
-- Root cause before patching symptoms.
-- Small, reviewable changes over broad refactors.
-- Tests and reproducible validation before claiming a fix works.
-- Responsible, authorized security research only.
-
-## Find me
-
-[HackerOne](https://hackerone.com/tayfuryldzz) · [Bugcrowd](https://bugcrowd.com/h/tayfuryldz) · [LinkedIn](https://www.linkedin.com/in/tayfur-y%C4%B1ld%C4%B1z-3b7820391) · [Website](https://www.ariacreative.net.tr)
+<div align="center">
+  <sub>Authorized security research only.</sub>
+</div>
