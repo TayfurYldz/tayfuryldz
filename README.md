@@ -1,8 +1,8 @@
 <div align="center">
 
-# Tayfur Yıldız
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1&pause=999999&color=F0F6FC&center=true&vCenter=true&repeat=false&width=720&height=55&lines=Tayfur+Y%C4%B1ld%C4%B1z" alt="Tayfur Yıldız" />
 
-### Security Research · Bug Bounty · Security Automation
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=720&height=35&lines=Security+Research+%C2%B7+Bug+Bounty+%C2%B7+Security+Automation" alt="Security Research · Bug Bounty · Security Automation" />
 
 I build practical tooling for authorized security research and spend most of my time around web application security, reconnaissance, validation, and low-noise automation.
 
