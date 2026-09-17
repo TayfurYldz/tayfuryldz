@@ -6,10 +6,9 @@
 
 I build practical tooling for authorized security research and spend most of my time around web application security, reconnaissance, validation, and low-noise automation.
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/tayfuryldzz)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/tayfuryldz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfur-y%C4%B1ld%C4%B1z-3b7820391)
-[![Website](https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ariacreative.net.tr)
+[![GitHub](https://img.shields.io/badge/GitHub-TayfurYldz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayfurYldz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayfur_Y%C4%B1ld%C4%B1z-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfur-y%C4%B1ld%C4%B1z-3b7820391/)
+[![Website](https://img.shields.io/badge/Website-ariacreative.net.tr-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ariacreative.net.tr/)
 
 </div>
 
