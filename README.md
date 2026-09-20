@@ -21,7 +21,7 @@ I build practical tooling for authorized security research: web application secu
 - **Web application security** — attack surface, request/response behavior, bug bounty
 - **Security automation** — repeatable recon and verification
 - **Research tooling** — less noise, evidence attached to every finding
-- **Open source** — focused fixes with regression tests (e.g. OpenLayers)
+- **Open source** — focused fixes with regression tests
 
 ## Stack
 
